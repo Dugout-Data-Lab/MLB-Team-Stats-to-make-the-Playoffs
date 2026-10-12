@@ -1,51 +1,5 @@
 # MLB-Team-Stats-to-make-the-Playoffs
-Using offensive and defensive statistics to find which ones help get to the playoffs
-Glossary of Abbreviations 
-   
-  2B = Doubles
-  3B = Triples
-  A = Assist
-  BA = Batting Average
-  BB (D) = Walks Allowed
-  BB (O) = Offensive Walks
-  CS = Caught Stealing
-  DefEff = Defensive Efficiency
-  DP = Double Plays Turned
-  E = Errors
-  ERA = Earned Runs Average
-  ERA+ = Earned Runs adjusted for player's ballpark
-  FIP = Fielding Independent Position 
-  Fld = Fielding Percentage
-  GDP (O) = Offensive Grounded into a Double Play
-  H (D) = Hits Allowed
-  H (O)= Offensive Hits
-  HBP (O) = Offensive Hit By Pitch
-  HR (D) = Home Runs Allowed
-  HR (O) = Offensive Home Runs
-  IBB (D) = Defensive Intentional Walks
-  IBB (O) = Offensive Intentional Walks
-  LOB (D) = Defensive Runners Left On Base
-  LOB (O) = Offensive Left on Base 
-  OBP = On Base Percentage
-  OPS = On base percentage plus Slugging Percentage
-  OPS+ = OPS adjusted for the player's ballpark
-  PO = Put Outs
-  R (D) = Runs Allowed 
-  R (O)= Offensive Runs
-  RA/G (D) = Allowed Runs per Game (Defense)
-  R/G (O)= Offensive Runs per Game
-  RBI = Runs Batted In
-  SB = Stolen Bases
-  SF = Sacrificed Fly 
-  SH = Sacrificed Hits (sacrifice Bunts)
-  SLG = Slugging Percentage (percentage of hits a hitter hits for more than just a single) 
-  SO (D) = Defensive Strikeouts
-  SO (O) = Offensive Strikeouts
-  SV = Saves
-  TB = Total Bases
-  tsho = Team Shutout
-  W-L% = Win-Loss Percentage
-  WHIP = (Walks + Hits)/Innings Pitches
+
 
 
   
