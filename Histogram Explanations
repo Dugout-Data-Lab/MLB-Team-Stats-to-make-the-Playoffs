@@ -1,0 +1,7 @@
+These histograms go through different statistics compliled all the data within that particular stat and put it in a bar graph.  
+The x-axis shows the range of how many times it has happened and the y-axis gives a total.  
+The key part about these histograms is the highlighted (darker area with the lines) portion. 
+The highlighted portion represents teams that have made the playoffs.  
+Using these histograms it is a quick comparison of how playoof teams performed in particular stats versuses teams that did not make the playoffs.
+
+Above the histograms is a box plot graph that will show dots.  These dots represent any outliers.  
